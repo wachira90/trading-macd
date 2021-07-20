@@ -1,5 +1,5 @@
-# trading-macd
-trading-macd
+# trading-strategy
+trading-strategy
 
 ### from 
 
